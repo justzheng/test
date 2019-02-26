@@ -6,7 +6,7 @@
  * Time: 10:29
  */
 
-namespace zty\test;
+namespace ztaoyu\test;
 
 
 class ztyGet

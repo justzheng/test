@@ -6,9 +6,9 @@
  * Time: 10:29
  */
 
-namespace zty\test\request;
+namespace ztaoyu\test\request;
 
-use zty\test\ztyGet;
+use ztaoyu\test\ztyGet;
 
 class request
 {
