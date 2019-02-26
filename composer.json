@@ -1,0 +1,19 @@
+{
+    "name": "zty/test",
+    "description": "test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhengtaoyu",
+            "email": "717828758@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "zty\\test\\": "src/",
+            "zty\\test\\request\\": "request/",
+        }
+    }
+}
